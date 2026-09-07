@@ -5,13 +5,13 @@ about:
   head: 7f4764f
   archived: false
   latestVersion: "v3.27.0"
-  collectedAt: 2026-09-07T06:16:10Z
+  collectedAt: 2026-09-07T18:15:56Z
 timeline:
   created: 2026-02-19
   lastCommit: 2026-09-07
   lastRelease: 2026-08-26
 popularity:
-  star: 674
+  star: 675
   watcher: 2
   fork: 35
   release: 215
@@ -85,7 +85,7 @@ total:
   commit: 500
 ---
 path: /home/runner/.x-repo/github.com/erickochen/purple
-collectedAt: 2026-09-07T06:16:30Z
+collectedAt: 2026-09-07T18:16:13Z
 loc:
   Rust:
     code: 170447
@@ -161,7 +161,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:16:32+00:00
+  collectedAt: 2026-09-07T18:16:14+00:00
   platform:
     darwin/arm64:
       name:  purple-3.27.0-aarch64-apple-darwin.tar.gz
