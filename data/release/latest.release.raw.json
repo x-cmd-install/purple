@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2958683,
       "digest": "sha256:193578b9458cdd9165a99fa540655f6184e36e1f7eace84cc0773d36c8087ff8",
-      "download_count": 151,
+      "download_count": 152,
       "created_at": "2026-08-26T17:55:47Z",
       "updated_at": "2026-08-26T17:55:48Z",
       "browser_download_url": "https://github.com/erickochen/purple/releases/download/v3.27.0/purple-3.27.0-aarch64-apple-darwin.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 3275369,
       "digest": "sha256:ca8e57dff87f9b7a8d376f27f13feade622e9ba6b5beded019231bc5583dbf16",
-      "download_count": 134,
+      "download_count": 138,
       "created_at": "2026-08-26T17:55:47Z",
       "updated_at": "2026-08-26T17:55:48Z",
       "browser_download_url": "https://github.com/erickochen/purple/releases/download/v3.27.0/purple-3.27.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 112,
       "digest": "sha256:2d7ff38e5e0b910b3fac8c22c51ef40e17e48f4d69dee0e80cd5e87ae06d510f",
-      "download_count": 66,
+      "download_count": 70,
       "created_at": "2026-08-26T17:55:47Z",
       "updated_at": "2026-08-26T17:55:48Z",
       "browser_download_url": "https://github.com/erickochen/purple/releases/download/v3.27.0/purple-3.27.0-x86_64-unknown-linux-gnu.tar.gz.sha256"
