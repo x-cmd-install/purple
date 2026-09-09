@@ -7,7 +7,7 @@ Free, open-source terminal SSH manager and SSH config editor in Rust for macOS a
 - **Latest release**: `v3.27.0` (2026-08-26)
 - **Last commit**: 2026-09-08
 - **License**: MIT
-- **Stars**: 676 · **Forks**: 35 · **Open issues**: 73 · **Contributors**: 2
+- **Stars**: 678 · **Forks**: 35 · **Open issues**: 73 · **Contributors**: 2
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/purple> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T12:41:40Z._
+_Last regenerated: 2026-09-09T06:27:36Z._
