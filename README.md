@@ -38,7 +38,7 @@ Total: **174,362** lines of code across **347** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 680 · **Forks**: 35 · **Open issues**: 73 · **Contributors**: 2
+- **Stars**: 681 · **Forks**: 35 · **Open issues**: 73 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -93,4 +93,4 @@ Install metadata for purple lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:59:19Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:52:40Z._
