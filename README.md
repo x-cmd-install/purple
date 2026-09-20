@@ -4,7 +4,7 @@
 
 Free, open-source terminal SSH manager and SSH config editor in Rust for macOS and Linux that keeps ~/.ssh/config in sync with 18 cloud providers, monitors live SSH tunnels and manages Docker and Podman containers fleet-wide. Plus scp, Vault SSH certs and an MCP server for AI agents.
 
-![purple](https://repo.x-cmd.io/purple.svg)
+[![x-cmd/install — purple Code Quality Monitoring Repo Card](https://repo.x-cmd.io/purple.svg)](https://x-cmd.com/install/purple)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **179,305** lines of code across **354** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 697 · **Forks**: 36 · **Open issues**: 74 · **Contributors**: 2
+- **Stars**: 699 · **Forks**: 36 · **Open issues**: 74 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **179,305** lines of code across **354** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 7 | 0 | 10 | 0 | 26 |
-| last60d | 2026-07-20 | 7 | 18 | 0 | 14 | 0 | 50 |
-| 90d | 2026-06-20 | 7 | 30 | 0 | 16 | 0 | 67 |
-| last180d | 2026-03-22 | 100 | 57 | 0 | 70 | 4 | 379 |
-| 360d | 2025-09-23 | 100 | 57 | 0 | 70 | 4 | 498 |
-| last720d | 2024-09-28 | 100 | 57 | 0 | 70 | 4 | 508 |
+| 30d | 2026-08-21 | 3 | 7 | 0 | 10 | 0 | 17 |
+| last60d | 2026-07-22 | 6 | 18 | 0 | 14 | 0 | 45 |
+| 90d | 2026-06-22 | 7 | 27 | 0 | 16 | 0 | 62 |
+| last180d | 2026-03-24 | 100 | 57 | 0 | 70 | 4 | 345 |
+| 360d | 2025-09-25 | 100 | 57 | 0 | 70 | 4 | 498 |
+| last720d | 2024-09-30 | 100 | 57 | 0 | 70 | 4 | 508 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for purple lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:41:03Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:31:11Z._
