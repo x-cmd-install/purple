@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3098922,
       "digest": "sha256:9afb7544dc03e570cd921e6dd9a1456f87c8744ac60a3d444d54d4d1bc28677e",
-      "download_count": 66,
+      "download_count": 80,
       "created_at": "2026-09-17T19:20:09Z",
       "updated_at": "2026-09-17T19:20:10Z",
       "browser_download_url": "https://github.com/erickochen/purple/releases/download/v3.28.0/purple-3.28.0-aarch64-apple-darwin.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3328760,
       "digest": "sha256:d35cee3af427dcc2c3575de3522a1e4cf68846ab9f0975087b5a055c37d566cf",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-17T19:20:09Z",
       "updated_at": "2026-09-17T19:20:09Z",
       "browser_download_url": "https://github.com/erickochen/purple/releases/download/v3.28.0/purple-3.28.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 5679528,
       "digest": "sha256:2ca32a3ae9d8b8b09b9de663c28ff3d3b5458bffce02759796fe25a4951df3bb",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-09-17T19:20:09Z",
       "updated_at": "2026-09-17T19:20:10Z",
       "browser_download_url": "https://github.com/erickochen/purple/releases/download/v3.28.0/purple-3.28.0-aarch64-unknown-linux-musl.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 3224342,
       "digest": "sha256:cb180696c5cc06725046a4f820f59c72351c138b873a09f9e83ff30a57f847f5",
-      "download_count": 10,
+      "download_count": 15,
       "created_at": "2026-09-17T19:20:09Z",
       "updated_at": "2026-09-17T19:20:09Z",
       "browser_download_url": "https://github.com/erickochen/purple/releases/download/v3.28.0/purple-3.28.0-x86_64-apple-darwin.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:808655a0ff2c0589bf6cab228772433c0bce3cd1c17676cda4761ece86ea222d",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-17T19:20:09Z",
       "updated_at": "2026-09-17T19:20:09Z",
       "browser_download_url": "https://github.com/erickochen/purple/releases/download/v3.28.0/purple-3.28.0-x86_64-apple-darwin.tar.gz.sha256"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 3424324,
       "digest": "sha256:bf8613986a61d45a48c9efebb0c030a44dce6b4c97c3e2f9dae4c951f80c2b65",
-      "download_count": 53,
+      "download_count": 97,
       "created_at": "2026-09-17T19:20:09Z",
       "updated_at": "2026-09-17T19:20:10Z",
       "browser_download_url": "https://github.com/erickochen/purple/releases/download/v3.28.0/purple-3.28.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 112,
       "digest": "sha256:9d409f8717812be2efabc1700fa01fa1219bf352d8ad01a18928a564a02699db",
-      "download_count": 13,
+      "download_count": 17,
       "created_at": "2026-09-17T19:20:09Z",
       "updated_at": "2026-09-17T19:20:09Z",
       "browser_download_url": "https://github.com/erickochen/purple/releases/download/v3.28.0/purple-3.28.0-x86_64-unknown-linux-gnu.tar.gz.sha256"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 5556190,
       "digest": "sha256:17865664875c829e889114b4fdbc15c061383c268f66159b886b9730e9a16098",
-      "download_count": 9,
+      "download_count": 17,
       "created_at": "2026-09-17T19:20:09Z",
       "updated_at": "2026-09-17T19:20:10Z",
       "browser_download_url": "https://github.com/erickochen/purple/releases/download/v3.28.0/purple-3.28.0-x86_64-unknown-linux-musl.tar.gz"
