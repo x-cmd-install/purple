@@ -33,27 +33,27 @@ Total: **184,963** lines of code across **360** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.30.0` (2026-09-22)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-26
 - **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 706 · **Forks**: 36 · **Open issues**: 78 · **Contributors**: 2
+- **Stars**: 708 · **Forks**: 36 · **Open issues**: 78 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 220 · **Merged PRs**: 58 · **Open PRs**: 0 · **Closed issues**: 74 · **Open issues**: 4 · **Commits**: 515
+- **Releases**: 220 · **Merged PRs**: 58 · **Open PRs**: 0 · **Closed issues**: 74 · **Open issues**: 4 · **Commits**: 516
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 5 | 7 | 0 | 11 | 0 | 24 |
-| last60d | 2026-07-28 | 10 | 15 | 0 | 18 | 0 | 52 |
-| 90d | 2026-06-28 | 11 | 28 | 0 | 20 | 0 | 69 |
-| last180d | 2026-03-30 | 100 | 56 | 0 | 73 | 4 | 352 |
-| 360d | 2025-10-01 | 100 | 58 | 0 | 74 | 4 | 505 |
-| last720d | 2024-10-06 | 100 | 58 | 0 | 74 | 4 | 515 |
+| 30d | 2026-08-28 | 5 | 7 | 0 | 11 | 0 | 25 |
+| last60d | 2026-07-29 | 10 | 15 | 0 | 18 | 0 | 53 |
+| 90d | 2026-06-29 | 11 | 27 | 0 | 20 | 0 | 70 |
+| last180d | 2026-03-31 | 100 | 56 | 0 | 73 | 4 | 353 |
+| 360d | 2025-10-02 | 100 | 58 | 0 | 74 | 4 | 506 |
+| last720d | 2024-10-07 | 100 | 58 | 0 | 74 | 4 | 516 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for purple lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T06:08:58Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:37:19Z._
