@@ -14,11 +14,11 @@ x install purple
 
 ## Code insight
 
-Total: **184,963** lines of code across **360** files in the top 5 languages.
+Total: **184,972** lines of code across **360** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 180,990 | 13,737 | 17,434 | 272 |
+| Rust | 180,999 | 13,738 | 17,436 | 272 |
 | Sh | 1,806 | 726 | 275 | 13 |
 | Json | 1,215 | 0 | 0 | 62 |
 | Html | 340 | 2 | 9 | 1 |
@@ -33,27 +33,27 @@ Total: **184,963** lines of code across **360** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.30.0` (2026-09-22)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-12
 - **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 723 · **Forks**: 36 · **Open issues**: 79 · **Contributors**: 2
+- **Stars**: 725 · **Forks**: 36 · **Open issues**: 79 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 220 · **Merged PRs**: 59 · **Open PRs**: 0 · **Closed issues**: 75 · **Open issues**: 4 · **Commits**: 520
+- **Releases**: 220 · **Merged PRs**: 60 · **Open PRs**: 0 · **Closed issues**: 75 · **Open issues**: 4 · **Commits**: 523
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 5 | 5 | 0 | 6 | 0 | 12 |
-| last60d | 2026-08-13 | 10 | 10 | 0 | 15 | 0 | 38 |
-| 90d | 2026-07-14 | 11 | 26 | 0 | 19 | 0 | 70 |
-| last180d | 2026-04-15 | 90 | 55 | 0 | 58 | 2 | 249 |
-| 360d | 2025-10-17 | 100 | 59 | 0 | 75 | 4 | 510 |
-| last720d | 2024-10-22 | 100 | 59 | 0 | 75 | 4 | 520 |
+| 30d | 2026-09-13 | 5 | 6 | 0 | 6 | 0 | 15 |
+| last60d | 2026-08-14 | 9 | 11 | 0 | 15 | 0 | 41 |
+| 90d | 2026-07-15 | 11 | 27 | 0 | 19 | 0 | 73 |
+| last180d | 2026-04-16 | 89 | 56 | 0 | 57 | 2 | 252 |
+| 360d | 2025-10-18 | 100 | 60 | 0 | 75 | 4 | 513 |
+| last720d | 2024-10-23 | 100 | 60 | 0 | 75 | 4 | 523 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for purple lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:28:42Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T08:18:01Z._
