@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3141867,
       "digest": "sha256:1d9602e598a47569adffa730fea66e9fd22dba32cca1980b1e2cf6e8d5bb9809",
-      "download_count": 73,
+      "download_count": 93,
       "created_at": "2026-10-21T16:02:39Z",
       "updated_at": "2026-10-21T16:02:40Z",
       "browser_download_url": "https://github.com/erickochen/purple/releases/download/v3.31.0/purple-3.31.0-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:b13422dca5dec0b01a4461745398bfbdf343507c4cc47e5ec5506c741db2d2d8",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-21T16:02:39Z",
       "updated_at": "2026-10-21T16:02:39Z",
       "browser_download_url": "https://github.com/erickochen/purple/releases/download/v3.31.0/purple-3.31.0-aarch64-apple-darwin.tar.gz.sha256"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 3473630,
       "digest": "sha256:b20aaabc86f1481ee30932b57a7f534046019bebeed7ee327f6955635f4b4ab7",
-      "download_count": 60,
+      "download_count": 75,
       "created_at": "2026-10-21T16:02:39Z",
       "updated_at": "2026-10-21T16:02:40Z",
       "browser_download_url": "https://github.com/erickochen/purple/releases/download/v3.31.0/purple-3.31.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 112,
       "digest": "sha256:fcb0e232a126b5eeb00fd181d36ff03926fe5b857d8521db51ff2b211eb5de4c",
-      "download_count": 18,
+      "download_count": 24,
       "created_at": "2026-10-21T16:02:39Z",
       "updated_at": "2026-10-21T16:02:39Z",
       "browser_download_url": "https://github.com/erickochen/purple/releases/download/v3.31.0/purple-3.31.0-x86_64-unknown-linux-gnu.tar.gz.sha256"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 5609752,
       "digest": "sha256:be28171f98d4af8baaa78acf10e45ec8e542d5d8b5e8bdafdfd9f4f6544ad83b",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-10-21T16:02:39Z",
       "updated_at": "2026-10-21T16:02:39Z",
       "browser_download_url": "https://github.com/erickochen/purple/releases/download/v3.31.0/purple-3.31.0-x86_64-unknown-linux-musl.tar.gz"
