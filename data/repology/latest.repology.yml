@@ -15,8 +15,8 @@
   srcname: purple
   binname: purple
   visiblename: purple
-  version: 3.31.0
-  origversion: 3.31.0-1
+  version: 3.31.1
+  origversion: 3.31.1-1
   status: unique
   summary: Terminal SSH manager with provider sync, tunnels, file transfer and containers
   maintainers:
@@ -28,8 +28,8 @@
   srcname: purple-bin
   binname: purple-bin
   visiblename: purple-bin
-  version: 3.31.0
-  origversion: 3.31.0-1
+  version: 3.31.1
+  origversion: 3.31.1-1
   status: unique
   summary: Terminal SSH manager with provider sync, tunnels, file transfer and containers
   maintainers:
