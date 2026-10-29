@@ -14,11 +14,11 @@ x install purple
 
 ## 代码洞察
 
-合计: **188,879** 行代码（覆盖前 5 种语言、共 **365** 个文件）。
+合计: **189,837** 行代码（覆盖前 5 种语言、共 **366** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 184,905 | 13,850 | 17,702 | 277 |
+| Rust | 185,863 | 13,875 | 17,804 | 278 |
 | Sh | 1,807 | 729 | 275 | 13 |
 | Json | 1,215 | 0 | 0 | 62 |
 | Html | 340 | 2 | 9 | 1 |
@@ -32,8 +32,8 @@ x install purple
 
 ## 发布
 
-- **最新版本**: `v3.31.1` (2026-10-24)
-- **最近提交**: 2026-10-27
+- **最新版本**: `v3.32.0` (2026-10-28)
+- **最近提交**: 2026-10-28
 - **Release 含资产**: 24 个
 
 ## 流行度
@@ -42,47 +42,47 @@ x install purple
 
 ## 累计统计
 
-- **发布数**: 222 · **已合并 PR**: 65 · **开放 PR**: 0 · **已关闭 issue**: 78 · **开放 issue**: 6 · **提交数**: 538
+- **发布数**: 223 · **已合并 PR**: 65 · **开放 PR**: 0 · **已关闭 issue**: 79 · **开放 issue**: 5 · **提交数**: 540
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 2 | 6 | 0 | 4 | 2 | 19 |
-| last60d | 2026-08-29 | 7 | 14 | 0 | 15 | 2 | 42 |
-| 90d | 2026-07-30 | 12 | 22 | 0 | 22 | 2 | 74 |
-| last180d | 2026-05-01 | 78 | 53 | 0 | 47 | 4 | 246 |
-| 360d | 2025-11-02 | 100 | 65 | 0 | 78 | 6 | 528 |
-| last720d | 2024-11-07 | 100 | 65 | 0 | 78 | 6 | 538 |
+| 30d | 2026-09-29 | 3 | 6 | 0 | 5 | 1 | 21 |
+| last60d | 2026-08-30 | 8 | 14 | 0 | 16 | 1 | 44 |
+| 90d | 2026-07-31 | 13 | 22 | 0 | 23 | 1 | 76 |
+| last180d | 2026-05-02 | 79 | 53 | 0 | 48 | 3 | 248 |
+| 360d | 2025-11-03 | 100 | 65 | 0 | 79 | 5 | 530 |
+| last720d | 2024-11-08 | 100 | 65 | 0 | 79 | 5 | 540 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [purple-3.31.1-aarch64-apple-darwin.mcpb](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-aarch64-apple-darwin.mcpb) | 3.0 MiB | `native/darwin/arm64` |
-| [purple-3.31.1-aarch64-apple-darwin.mcpb.sha256](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-aarch64-apple-darwin.mcpb.sha256) | 106 B | `native/darwin/arm64` |
-| [purple-3.31.1-aarch64-apple-darwin.tar.gz](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-aarch64-apple-darwin.tar.gz) | 3.0 MiB | `native/darwin/arm64` |
-| [purple-3.31.1-aarch64-apple-darwin.tar.gz.sha256](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-aarch64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/arm64` |
-| [purple-3.31.1-aarch64-unknown-linux-gnu.mcpb](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-aarch64-unknown-linux-gnu.mcpb) | 3.2 MiB | `native/linux/arm64/glibc` |
-| [purple-3.31.1-aarch64-unknown-linux-gnu.mcpb.sha256](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-aarch64-unknown-linux-gnu.mcpb.sha256) | 111 B | `native/linux/arm64/glibc` |
-| [purple-3.31.1-aarch64-unknown-linux-gnu.tar.gz](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-aarch64-unknown-linux-gnu.tar.gz) | 3.2 MiB | `native/linux/arm64/glibc` |
-| [purple-3.31.1-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-aarch64-unknown-linux-gnu.tar.gz.sha256) | 113 B | `native/linux/arm64/glibc` |
-| [purple-3.31.1-aarch64-unknown-linux-musl.mcpb](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-aarch64-unknown-linux-musl.mcpb) | 5.5 MiB | `native/linux/arm64/musl` |
-| [purple-3.31.1-aarch64-unknown-linux-musl.mcpb.sha256](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-aarch64-unknown-linux-musl.mcpb.sha256) | 112 B | `native/linux/arm64/musl` |
-| [purple-3.31.1-aarch64-unknown-linux-musl.tar.gz](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-aarch64-unknown-linux-musl.tar.gz) | 5.5 MiB | `native/linux/arm64/musl` |
-| [purple-3.31.1-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-aarch64-unknown-linux-musl.tar.gz.sha256) | 114 B | `native/linux/arm64/musl` |
-| [purple-3.31.1-x86_64-apple-darwin.mcpb](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-x86_64-apple-darwin.mcpb) | 3.2 MiB | `native/darwin/x64` |
-| [purple-3.31.1-x86_64-apple-darwin.mcpb.sha256](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-x86_64-apple-darwin.mcpb.sha256) | 105 B | `native/darwin/x64` |
-| [purple-3.31.1-x86_64-apple-darwin.tar.gz](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-x86_64-apple-darwin.tar.gz) | 3.1 MiB | `native/darwin/x64` |
-| [purple-3.31.1-x86_64-apple-darwin.tar.gz.sha256](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-x86_64-apple-darwin.tar.gz.sha256) | 107 B | `native/darwin/x64` |
-| [purple-3.31.1-x86_64-unknown-linux-gnu.mcpb](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-x86_64-unknown-linux-gnu.mcpb) | 3.4 MiB | `native/linux/x64/glibc` |
-| [purple-3.31.1-x86_64-unknown-linux-gnu.mcpb.sha256](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-x86_64-unknown-linux-gnu.mcpb.sha256) | 110 B | `native/linux/x64/glibc` |
-| [purple-3.31.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-x86_64-unknown-linux-gnu.tar.gz) | 3.3 MiB | `native/linux/x64/glibc` |
-| [purple-3.31.1-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-x86_64-unknown-linux-gnu.tar.gz.sha256) | 112 B | `native/linux/x64/glibc` |
-| [purple-3.31.1-x86_64-unknown-linux-musl.mcpb](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-x86_64-unknown-linux-musl.mcpb) | 5.4 MiB | `native/linux/x64/musl` |
-| [purple-3.31.1-x86_64-unknown-linux-musl.mcpb.sha256](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-x86_64-unknown-linux-musl.mcpb.sha256) | 111 B | `native/linux/x64/musl` |
-| [purple-3.31.1-x86_64-unknown-linux-musl.tar.gz](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-x86_64-unknown-linux-musl.tar.gz) | 5.4 MiB | `native/linux/x64/musl` |
-| [purple-3.31.1-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/erickochen/purple/releases/download/v3.31.1/purple-3.31.1-x86_64-unknown-linux-musl.tar.gz.sha256) | 113 B | `native/linux/x64/musl` |
+| [purple-3.32.0-aarch64-apple-darwin.mcpb](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-aarch64-apple-darwin.mcpb) | 3.0 MiB | `native/darwin/arm64` |
+| [purple-3.32.0-aarch64-apple-darwin.mcpb.sha256](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-aarch64-apple-darwin.mcpb.sha256) | 106 B | `native/darwin/arm64` |
+| [purple-3.32.0-aarch64-apple-darwin.tar.gz](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-aarch64-apple-darwin.tar.gz) | 3.0 MiB | `native/darwin/arm64` |
+| [purple-3.32.0-aarch64-apple-darwin.tar.gz.sha256](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-aarch64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/arm64` |
+| [purple-3.32.0-aarch64-unknown-linux-gnu.mcpb](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-aarch64-unknown-linux-gnu.mcpb) | 3.3 MiB | `native/linux/arm64/glibc` |
+| [purple-3.32.0-aarch64-unknown-linux-gnu.mcpb.sha256](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-aarch64-unknown-linux-gnu.mcpb.sha256) | 111 B | `native/linux/arm64/glibc` |
+| [purple-3.32.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-aarch64-unknown-linux-gnu.tar.gz) | 3.2 MiB | `native/linux/arm64/glibc` |
+| [purple-3.32.0-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-aarch64-unknown-linux-gnu.tar.gz.sha256) | 113 B | `native/linux/arm64/glibc` |
+| [purple-3.32.0-aarch64-unknown-linux-musl.mcpb](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-aarch64-unknown-linux-musl.mcpb) | 5.5 MiB | `native/linux/arm64/musl` |
+| [purple-3.32.0-aarch64-unknown-linux-musl.mcpb.sha256](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-aarch64-unknown-linux-musl.mcpb.sha256) | 112 B | `native/linux/arm64/musl` |
+| [purple-3.32.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-aarch64-unknown-linux-musl.tar.gz) | 5.5 MiB | `native/linux/arm64/musl` |
+| [purple-3.32.0-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-aarch64-unknown-linux-musl.tar.gz.sha256) | 114 B | `native/linux/arm64/musl` |
+| [purple-3.32.0-x86_64-apple-darwin.mcpb](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-x86_64-apple-darwin.mcpb) | 3.2 MiB | `native/darwin/x64` |
+| [purple-3.32.0-x86_64-apple-darwin.mcpb.sha256](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-x86_64-apple-darwin.mcpb.sha256) | 105 B | `native/darwin/x64` |
+| [purple-3.32.0-x86_64-apple-darwin.tar.gz](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-x86_64-apple-darwin.tar.gz) | 3.1 MiB | `native/darwin/x64` |
+| [purple-3.32.0-x86_64-apple-darwin.tar.gz.sha256](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-x86_64-apple-darwin.tar.gz.sha256) | 107 B | `native/darwin/x64` |
+| [purple-3.32.0-x86_64-unknown-linux-gnu.mcpb](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-x86_64-unknown-linux-gnu.mcpb) | 3.4 MiB | `native/linux/x64/glibc` |
+| [purple-3.32.0-x86_64-unknown-linux-gnu.mcpb.sha256](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-x86_64-unknown-linux-gnu.mcpb.sha256) | 110 B | `native/linux/x64/glibc` |
+| [purple-3.32.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-x86_64-unknown-linux-gnu.tar.gz) | 3.3 MiB | `native/linux/x64/glibc` |
+| [purple-3.32.0-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-x86_64-unknown-linux-gnu.tar.gz.sha256) | 112 B | `native/linux/x64/glibc` |
+| [purple-3.32.0-x86_64-unknown-linux-musl.mcpb](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-x86_64-unknown-linux-musl.mcpb) | 5.4 MiB | `native/linux/x64/musl` |
+| [purple-3.32.0-x86_64-unknown-linux-musl.mcpb.sha256](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-x86_64-unknown-linux-musl.mcpb.sha256) | 111 B | `native/linux/x64/musl` |
+| [purple-3.32.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-x86_64-unknown-linux-musl.tar.gz) | 5.4 MiB | `native/linux/x64/musl` |
+| [purple-3.32.0-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/erickochen/purple/releases/download/v3.32.0/purple-3.32.0-x86_64-unknown-linux-musl.tar.gz.sha256) | 113 B | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -93,4 +93,4 @@ purple 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261028.yml` · 2026-10-28T07:07:41Z._
+_数据快照: `data/card/261029.yml` · 2026-10-29T07:11:37Z._
