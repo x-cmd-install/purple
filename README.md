@@ -48,12 +48,12 @@ Total: **194,300** lines of code across **370** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 8 | 12 | 0 | 9 | 2 | 35 |
-| last60d | 2026-09-11 | 13 | 17 | 0 | 15 | 2 | 53 |
-| 90d | 2026-08-12 | 18 | 24 | 0 | 25 | 2 | 76 |
-| last180d | 2026-05-14 | 66 | 54 | 0 | 46 | 4 | 227 |
-| 360d | 2025-11-15 | 100 | 71 | 0 | 84 | 6 | 548 |
-| last720d | 2024-11-20 | 100 | 71 | 0 | 84 | 6 | 558 |
+| 30d | 2026-10-12 | 8 | 11 | 0 | 9 | 2 | 35 |
+| last60d | 2026-09-12 | 13 | 17 | 0 | 15 | 2 | 53 |
+| 90d | 2026-08-13 | 18 | 22 | 0 | 24 | 2 | 76 |
+| last180d | 2026-05-15 | 65 | 54 | 0 | 46 | 4 | 227 |
+| 360d | 2025-11-16 | 100 | 71 | 0 | 84 | 6 | 548 |
+| last720d | 2024-11-21 | 100 | 71 | 0 | 84 | 6 | 558 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for purple lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T09:08:06Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:51:02Z._
