@@ -33,27 +33,27 @@ Total: **194,300** lines of code across **370** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v3.34.2` (2026-11-04)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-14
 - **Assets in release**: 24
 
 ## Popularity
 
-- **Stars**: 775 · **Forks**: 43 · **Open issues**: 92 · **Contributors**: 5
+- **Stars**: 775 · **Forks**: 44 · **Open issues**: 93 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 228 · **Merged PRs**: 71 · **Open PRs**: 1 · **Closed issues**: 85 · **Open issues**: 7 · **Commits**: 559
+- **Releases**: 228 · **Merged PRs**: 71 · **Open PRs**: 2 · **Closed issues**: 85 · **Open issues**: 8 · **Commits**: 560
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 8 | 11 | 1 | 10 | 3 | 36 |
-| last60d | 2026-09-15 | 13 | 14 | 1 | 15 | 3 | 54 |
-| 90d | 2026-08-16 | 17 | 21 | 1 | 25 | 3 | 77 |
-| last180d | 2026-05-18 | 60 | 50 | 1 | 46 | 5 | 228 |
-| 360d | 2025-11-19 | 100 | 71 | 1 | 85 | 7 | 549 |
-| last720d | 2024-11-24 | 100 | 71 | 1 | 85 | 7 | 559 |
+| 30d | 2026-10-16 | 8 | 11 | 2 | 9 | 4 | 28 |
+| last60d | 2026-09-16 | 13 | 14 | 2 | 15 | 4 | 45 |
+| 90d | 2026-08-17 | 15 | 21 | 2 | 25 | 4 | 78 |
+| last180d | 2026-05-19 | 58 | 50 | 2 | 42 | 6 | 150 |
+| 360d | 2025-11-20 | 100 | 71 | 2 | 85 | 8 | 550 |
+| last720d | 2024-11-25 | 100 | 71 | 2 | 85 | 8 | 560 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for purple lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:30:12Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:24:06Z._
